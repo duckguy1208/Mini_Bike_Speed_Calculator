@@ -16,12 +16,8 @@ The app calculates top speed by analyzing the relationship between your engine's
 ## Link
 https://mini-bike-calculator.streamlit.app/
 
----
-
 ##  License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ##  Author
 **duckguy1208**
