@@ -22,4 +22,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ##  Author
 **duckguy1208**
 * GitHub: [@duckguy1208](https://github.com/duckguy1208)
-* Project Link: [https://github.com/duckguy1208/Fire-Water-Grass-RPS](https://github.com/duckguy1208/Mini_Bike_Speed_Calculator)
+* Project Link: [https://github.com/duckguy1208/Mini_Bike_Speed_Calculator](https://github.com/duckguy1208/Mini_Bike_Speed_Calculator)
